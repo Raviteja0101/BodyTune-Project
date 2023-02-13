@@ -1,6 +1,7 @@
 # body_tune
 
-A new Flutter application.
+Development of cross platform mobile application for carotid auscultation device.
+
 
 ## Getting Started
 
